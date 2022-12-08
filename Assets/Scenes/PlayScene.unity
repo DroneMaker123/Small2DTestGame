@@ -694,7 +694,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 3719194056443620138, guid: a1e4243770f5a014085ae5be790efa57, type: 3}
-  spawnAmount: 100
+  spawnAmount: 1000
   spawnArea: {x: 10, y: 10}
 --- !u!4 &1789210994
 Transform:
